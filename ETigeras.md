@@ -2,4 +2,4 @@
 
 Estudiante del IES Alcantara
 
-! [LogoInstituto](/desktop/LogoAlcantara.png)
+! [LogoInstituto](/images/LogoAlcantara.png)
