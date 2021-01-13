@@ -2,4 +2,4 @@
 
 Foto:
 
-![Foto de Jorge Parra](/images/ExpJorgParra.png)
+![Colegio Las Tejeras](/images/CEIPLT.png)
