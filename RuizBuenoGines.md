@@ -5,3 +5,6 @@
 Foto:
 
 ![Colegio Las Tejeras](/images/CEIPLT.png)
+
+
+Cambios en el fichero original
