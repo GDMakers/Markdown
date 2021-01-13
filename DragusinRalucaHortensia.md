@@ -1,7 +1,7 @@
 # Hortensia Dragusin
 Estudiante
 ## Foto
-images/foto.png
+(images/foto.png)
 
 Poner lista:
 - 1
