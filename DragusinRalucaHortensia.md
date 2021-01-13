@@ -1,7 +1,7 @@
 # Hortensia Dragusin
 Estudiante
 ## Foto
-(images/foto.png)
+[Foto](/images/images/foto.png)
 
 Poner lista:
 - 1
