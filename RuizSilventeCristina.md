@@ -3,4 +3,4 @@
 
 Foto:
 
-![Foto de Jorge Parra](/images/ExpJorgParra.png)
+![Foto de Mis Perros Navideños](/images/MisPerros.png)
