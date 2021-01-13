@@ -1,3 +1,3 @@
 # PabloPG
 
-![Foto IES Alcantara](/images/Encabezado.png)
+![Foto IES Alcantara](/images/ENCABEZADO.png)
