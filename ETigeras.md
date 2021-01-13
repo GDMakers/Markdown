@@ -14,4 +14,4 @@ Me gustan los videojuegos
 
 -Rainbow 6 Siege
 
-
+No entiendo lo de pull request
