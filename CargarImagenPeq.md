@@ -1,4 +1,4 @@
 # Cargar Imagen pequeña.
 
-![Imagen Pequeña] (/images/ImgPeq.PNG)
+![Imagen Pequeña](/images/ImgPeq.png)
 
