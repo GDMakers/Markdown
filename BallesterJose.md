@@ -24,3 +24,5 @@ Foto:
 ### Como he dicho antes, he participado en muchas cosas, si quereir saber mas sobre que he hecho, a que reuniones he asistido  y en que participo podeis meteros en mi pagina web, alli emncontrareis todo sobre mi.
 
 [Mi pagina web][https://sites.google.com/u/1/d/1ovDwLVFM6j3cxTd6thGMm_bNEvGlTWe1/preview]
+
+> Para obtener una recompensa primero hay que esforzarse
