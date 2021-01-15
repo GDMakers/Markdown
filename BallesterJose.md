@@ -3,7 +3,7 @@
 ## Soy un estudiante de primero de bachilleroto del IES Alcantara
 
 
-![Logo](/images/.png)
+![Logo](/images/logoies(4).png)
 
 
 - Me gusta participar en muchos proyectos, uno de los que participe fué el de los codigo ***QR*** del museo de la huerta alcanrtarilla
