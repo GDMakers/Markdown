@@ -23,4 +23,4 @@ Poner lista:
 ## Editado por:
 
 Ginés Pujante
-> Editado por Jose Balester
+> Editado por Jose Ballester
