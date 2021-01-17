@@ -13,3 +13,5 @@ Foto:
 - Edición de fotos y vídeos
 
 ## Participación en diversos proyectos como GDMuseos con el papel de especialista.
+
+![Foto de GDMuseos](/images/ImagenGDMuseos.png)
