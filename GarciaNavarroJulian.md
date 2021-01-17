@@ -1,6 +1,6 @@
 # Julián García Navarro
 
-Estudiante de 4ºESO
+## Estudiante de 4ºESO
 
 Foto:
 
