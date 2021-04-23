@@ -12,6 +12,9 @@ Aprende el lenguaje Markdown
 ![¿Cómo lo estamos haciendo?](/images/ComoSeHace.png =250x250)
 
 
+<img src="/images/ComoSeHace.png" alt="drawing" width="200"/>
+
+
 ### SubSubtítulo
 texto
 
