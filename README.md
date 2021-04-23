@@ -7,8 +7,9 @@ Aprende el lenguaje Markdown
 
 
 ## Subtítulo
-Ayer recibió el primer premio en el congreso de Jóvenes investigadores.
-![Foto de Jorge Parra](/images/ExpJorgParra.png)
+¿Cómo lo estamos haciendo?
+
+![¿Cómo lo estamos haciendo?](/images/ComoSeHace.png)
 
 
 ### SubSubtítulo
