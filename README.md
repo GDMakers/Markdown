@@ -9,7 +9,7 @@ Aprende el lenguaje Markdown
 ## Subtítulo
 ¿Cómo lo estamos haciendo?
 
-![¿Cómo lo estamos haciendo?](/images/ComoSeHace.png)
+![¿Cómo lo estamos haciendo?](/images/ComoSeHace.png =250x250)
 
 
 ### SubSubtítulo
