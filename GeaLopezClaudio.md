@@ -1,11 +1,17 @@
 # Claudio Gea López
 
+## Estudiante de 4º de la ESO
+
 Foto:
 
-![Foto de Jorge Parra](/images/ExpJorgParra.png)
+![Foto de moto](/images/motocross.jpg)
 
 
-Lista:
-- Punto 1
-- Punto 2
-- Punto 3
+### Aficiones
+- Deportes
+- Los videojuegos
+- Edición de fotos y vídeos
+
+## Participación en diversos proyectos como GDMuseos con el papel de especialista.
+
+![Foto de GDMuseos](/images/ImagenGDMuseos.png)
