@@ -8,3 +8,5 @@ Cosas que me gustan
 - League Of Legends
 - Salir con mis amigos 
 - Los ordenadores
+
+Con ordenadores me refiero a la informatica en general.

@@ -2,4 +2,16 @@
 
 Estudiante del IES Alcantara
 
-! [LogoInstituto](/images/LogoAlcantara.png)
+![LogoInstituto](/images/LogoAlcantara.jpg)
+
+Quiero ser programador
+
+Me gustan los videojuegos
+
+-Super Smash Bros. Ultimate
+
+-League of Legends
+
+-Rainbow 6 Siege
+
+
