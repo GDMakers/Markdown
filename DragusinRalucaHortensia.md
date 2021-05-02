@@ -1,7 +1,7 @@
 # Hortensia Dragusin
 Estudiante
 ## Foto
-![foto.png](images/foto.png)
+![](images/grupos%20de%20desarrollo.jpg)
 
 Lista:
 - 1
